@@ -1,0 +1,1 @@
+Select avg(age) as moyen_age FROM etudiants;

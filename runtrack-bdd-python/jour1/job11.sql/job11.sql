@@ -1,0 +1,1 @@
+SELECT * From etudiants Where nom = "Dupuis" and prenom = "Gertrude";
